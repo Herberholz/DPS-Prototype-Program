@@ -1,0 +1,9 @@
+Evil Chocolate;200;950383
+Dinosaur Therapy;1200;018947
+Massages;80;739203
+Support Session;100;284920
+Sleep;2000;777777
+Puppy Party;500;888888
+Red Panda Hugs;5000;038473
+Disappointment;246;939827
+Wakeup Call;380;234509
